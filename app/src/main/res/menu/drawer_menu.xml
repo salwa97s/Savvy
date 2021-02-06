@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" >
+
+        <item android:id="@+id/Mprofile" android:icon="@drawable/ic_profile" android:title="Profile"/>
+        <item android:id="@+id/Mevents" android:icon="@drawable/ic_event" android:title="Events"/>
+        <item android:id="@+id/Mtime" android:icon="@drawable/ic_time" android:title="Free time"/>
+        <item android:id="@+id/Mmap" android:icon="@drawable/ic_location" android:title="Map"/>
+        <item android:id="@+id/Msettings" android:icon="@drawable/ic_settings" android:title="Settings"/>
+        <item android:id="@+id/Mlogout" android:icon="@drawable/ic_close" android:title="Logout"/>
+    </group>
+
+</menu>
